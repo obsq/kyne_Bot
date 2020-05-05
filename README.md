@@ -1,14 +1,7 @@
-# Group
-[Join Discuss Group](https://t.me/giveaways_24hrs)
+<h1 align="center">PROJECT "3301"</h1>
+<h3 align="center">A Telegram bot that can help you manage your Channel/Group</h3>
+<p align="center">&nbsp;</p>
+This bot can be seen in Telegram as [kyne](https://t.me/Sir_kyneBot)
+<h5 align="center">Tap on the image to deploy in heroku! Join our telegram channel and check the pinned message for guide https://t.me/Project3301</h5>
+<p align="center"><a href="(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVxjZQ_gCtsoPnq608vztqjI1-_Mcz_n9PbCGILPbmdnAjUd3_&usqp=CAU" alt="Deploy to Heroku" /></a></p>
 
-# GroupManager
-
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fxditya%2Fgroupmanager)
-
-A modular Telegram Python bot running on python3 with an sqlalchemy database.
-
-Can be found on telegram as [GroupManager](https://t.me/tg_groupmanagerbot).
-
-Alternatively, [find me on telegram](https://t.me/xditya)! (Keep all support questions in the support chat, where more people can help you.)
-
-You can also join our support group [here!](https://t.me/tg_groupmanagerbot)
